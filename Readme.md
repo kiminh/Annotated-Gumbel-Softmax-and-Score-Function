@@ -13,6 +13,8 @@ In NLP this typically means discrete structures, typically categorical variables
 with the parameterization by HMMs, CRFs and neural networks. 
 To show the implementation details, to study the basic behaviors of the two estimators from an engineering perspective, to give people what to expect, and to show the best practice, we present the annotated notebooks for them. 
 
+Specifically, we focus on **hyper-parameter tuning** and the corresponding output.
+
 The annotated gumbel-softmax ([html](https://franxyao.github.io/blog/annotated_gumbel.html), [ipynb](https://github.com/FranxYao/Annotated-Gumbel-Softmax-and-Score-Function/blob/master/src/annotated_gumbel.ipynb))
 
 The annotated score function estimator([html](https://franxyao.github.io/blog/annotated_score_function.html), [ipynb](https://github.com/FranxYao/Annotated-Gumbel-Softmax-and-Score-Function/blob/master/src/annotated_score_function.ipynb))
