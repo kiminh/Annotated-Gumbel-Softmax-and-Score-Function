@@ -1,11 +1,7 @@
-# The Annotated Gumbel-softmax
+# The Annotated Gumbel Softmax and Score Function Estimator: An Engineering Perspective
 
 Yao Fu, Columbia University 
 
 yao.fu@columbia.edu
 
-# The Annotated Gumbel Softmax and Score Function Estimator: An engineering perspective
-
-Yao Fu, Columbia University 
-
-yao.fu@columbia.edu
+The gumbel-softmax and the score function estimator are the two most widely used 
